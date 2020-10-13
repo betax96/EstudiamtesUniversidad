@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Estudiantes Universidad</string>
+    <string name="codigo">Código</string>
+    <string name="nombre">Nombre</string>
+    <string name="programa">Programa</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="estudiantes">Estudiantes</string>
+    <string name="agregar">Agregar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="modificar">Modificar</string>
+    <string name="err_valores_no_validos">Se han ingresado valores no validos</string>
+    <string name="selec_estudiante_modificar">Seleccione el estudiante que desea modificar</string>
+    <string name="selec_estudiante_eliminar">Seleccione el estudiante que desea eliminar</string>
+</resources>
